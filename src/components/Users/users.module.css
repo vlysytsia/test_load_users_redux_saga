@@ -1,0 +1,25 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  margin-bottom: 12px;
+  background-color: #d0ffff;
+  font-size: 24px;
+}
+
+.userAvatar {
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.loading {
+  font-size: 32px;
+  text-align: center;
+}
+
+.error {
+  font-size: 24px;
+  color: #fd5523;
+  margin: 12px;
+  text-align: center;
+}

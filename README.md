@@ -1,4 +1,4 @@
-# Live coding 
+# 1h Live coding 
 
 ## Fetch users from API using redux-saga
 
